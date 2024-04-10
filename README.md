@@ -20,8 +20,6 @@ I have an introverted personality, and am enthusiastic about sharing personal kn
 Before, I used to like front-end and develop myself to be a front-end engineer successfully.Now I still want to promote, gain deeper knowledge and go further in this field.
 
 :white_circle:  I currently have a job requirement for a front-end position. If you have suitable recommendations, please contact my email: [mangoru446@gmail.com](mangoru446@gmail.com), sincere thanks!
-      
-<b>`Where there is a will, there is a way.`</b>
 
 <div align=center border style="border: 1px solid #dcf7ec; padding: 4px 10px;text-align:center">
 <p>
@@ -29,9 +27,9 @@ Before, I used to like front-end and develop myself to be a front-end engineer s
 </p>
 </div>
 
-### More About Me
+### 👾 More About Me
 
-<img  align=right style="width: 300px" src="http://81.69.247.224:8090/themes/theme-hao/assets/images/infj.svg" />
+<img  align=right style="width: 280px" src="http://81.69.247.224:8090/themes/theme-hao/assets/images/infj.svg" />
       
 - :green_square: &nbsp; a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 Developer
 - :birthday: &nbsp; Birth: 1999,11
@@ -45,7 +43,7 @@ Before, I used to like front-end and develop myself to be a front-end engineer s
 - -  Strong resistance to pressure、Win win cooperation
 - :black_flag: &nbsp; Work at sunrise and rest at sunset
 
-### My Skill Stack
+### ⚙️ My Skill Stack
 
 
 <div>
@@ -57,7 +55,7 @@ Before, I used to like front-end and develop myself to be a front-end engineer s
  <a href="https://www.runoob.com/html/html5-intro.html"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/h5logo.svg" alt="HTML5" style="width: 42px;height: 42px"></a>
  <a href="https://www.runoob.com/css3/css3-tutorial.html"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/c3-logo.svg" alt="CSS3" style="width: 42px;height: 42px"></a>
  <a href="https://www.sass.hk/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/sass.png" alt="Sass" style="width: 42px;height: 42px"></a>
- <a href="https://lesscss.cn/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/less_logo.png" alt="Less" style="height: 30px;transform: translateY(-6px);"></a>
+ <a href="https://lesscss.cn/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/less_logo.png" alt="Less" style="height: 38px;"></a>
  <a href="https://www.runoob.com/markdown/md-tutorial.html"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/md-logo.svg" alt="Markdown" style="width: 42px;height: 42px"></a> 
  <a href="https://nginx.org/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/NGINX.png" alt="Nginx" style="width: 42px;height: 42px"></a>
  <a href="https://www.jenkins.io/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/jenkins.png" alt="Jenkins" style="width: 42px;height: 42px"></a>
@@ -80,16 +78,16 @@ Before, I used to like front-end and develop myself to be a front-end engineer s
  &nbsp;&nbsp; ……
 </div>
 
-### My Projects
+### 🗂️ My Projects
 - [MangoRu 空间站](http://81.69.247.224:8090/)
 - [RView 前端公共组件库](http://81.69.247.224:8081/)（iView 二封）
 - 未完待续……
 
-### Find Me
+### 🔍 Find Me
 | Github                                | 个人网站                               | 语雀                                        | CSDN      |
 |---------------------------------------|------------------------------------|-------------------------------------------|-----------|
 | [Github：MangoRu](https://github.com/MangoRu) | [MangoRu 空间站](http://81.69.247.224:8090/) | [语雀：Mango](https://www.yuque.com/mango-myjs6) | [CSDN：Little-BingoQ](https://blog.csdn.net/qq_40618816?spm=1000.2115.3001.5343) |
 
-### Yuque Creativity Map
+### 📊 Yuque Creativity Map
 
 ![语雀创作记录](https://raw.githubusercontent.com/MangoRu/PicGo/master/yuque-record.png)
