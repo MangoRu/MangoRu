@@ -15,8 +15,6 @@ Here are some ideas to get you started: 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬�
 
 <h2 align="center">Hi everyone! 👋 I'm MangoRu!</h2>
 
-<hr>
-
 :blossom:  I'm <u>[@MangoRu](https://github.com/MangoRu)</u>, you can also call me Quiana Rue or Rue.
 I have an introverted personality, and am enthusiastic about sharing personal knowledge in the form of markdown notes, also enjoy everything new and technological.
 Before, I used to like front-end and develop myself to be a front-end engineer successfully.Now I still want to promote, gain deeper knowledge and go further in this field.
