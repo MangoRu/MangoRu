@@ -84,9 +84,9 @@ Before, I used to like front-end and develop myself to be a front-end engineer s
 - 未完待续……
 
 ### 🔍 Find Me
-| Github                                | 个人网站                               | 语雀                                        | CSDN      |
-|---------------------------------------|------------------------------------|-------------------------------------------|-----------|
-| [Github：MangoRu](https://github.com/MangoRu) | [MangoRu 空间站](http://81.69.247.224:8090/) | [语雀：Mango](https://www.yuque.com/mango-myjs6) | [CSDN：Little-BingoQ](https://blog.csdn.net/qq_40618816?spm=1000.2115.3001.5343) |
+| Github                                | Gitea | 个人网站                               | 语雀                                        | CSDN      |
+|---------------------------------------|------ |------------------------------|-------------------------------------------|-----------|
+| [Github：MangoRu](https://github.com/MangoRu) | [Gitea：MangoRu](https://gitea.com/MangoRu) | [MangoRu 空间站](https://mangoru.site/) | [语雀：Mango](https://www.yuque.com/mango-myjs6) | [CSDN：Little-BingoQ](https://blog.csdn.net/qq_40618816?spm=1000.2115.3001.5343) |
 
 ### 📊 Yuque Creativity Map
 
