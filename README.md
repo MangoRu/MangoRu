@@ -45,35 +45,34 @@ Before, I used to like front-end and develop myself to be a front-end engineer s
 
 ### ⚙️ My Skill Stack
 
-
 <div>
- <a href="https://cn.vuejs.org/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/vuejs-logo.png" alt="Vue" style="width: 42px;height: 42px"></a>
- <a href="https://zh-hans.react.dev/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/react.png" alt="React" style="width: 42px;height: 42px"></a>
- <a href="https://mp.weixin.qq.com/cgi-bin/wx?token=&lang=zh_CN"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/wecht-miniprogram.png" alt="wechat-mini-program" style="width: 42px;height: 42px"></a>
- <a href="https://es6.ruanyifeng.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/js-logo.svg" alt="JavaScript" style="width: 42px;height: 42px"></a>
- <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/typescript_.png" alt="TypeScript" style="width: 42px;height: 42px"></a>
- <a href="https://www.runoob.com/html/html5-intro.html"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/h5logo.svg" alt="HTML5" style="width: 42px;height: 42px"></a>
- <a href="https://www.runoob.com/css3/css3-tutorial.html"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/c3-logo.svg" alt="CSS3" style="width: 42px;height: 42px"></a>
- <a href="https://www.sass.hk/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/sass.png" alt="Sass" style="width: 42px;height: 42px"></a>
- <a href="https://lesscss.cn/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/less_logo.png" alt="Less" style="height: 38px;"></a>
- <a href="https://www.runoob.com/markdown/md-tutorial.html"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/md-logo.svg" alt="Markdown" style="width: 42px;height: 42px"></a> 
- <a href="https://nginx.org/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/NGINX.png" alt="Nginx" style="width: 42px;height: 42px"></a>
- <a href="https://www.jenkins.io/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/jenkins.png" alt="Jenkins" style="width: 42px;height: 42px"></a>
- <a href="https://nodejs.org/en"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/Nodejs.png" alt="NodeJS" style="width: 42px;height: 42px"></a>
- <a href="https://www.webpackjs.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/fe-webpack.png" alt="webpack" style="width: 42px;height: 42px"></a>
- <a href="https://www.npmjs.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/npm-icon-active.png" alt="npm" style="width: 42px;height: 42px"></a>
- <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/git-logo.svg" alt="Git" style="width: 42px;height: 42px"></a>
- <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/mysql-original-wordmark.svg" alt="MySQL" style="width: 42px;height: 42px"></a>
+ <a href="https://cn.vuejs.org/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/vuejs.png" alt="Vue" style="width: 42px;height: 42px"></a>
+ <a href="https://zh-hans.react.dev/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/react.png" alt="React" style="width: 42px;height: 42px"></a>
+ <a href="https://mp.weixin.qq.com/cgi-bin/wx?token=&lang=zh_CN"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/wechat-mini-program.png" alt="wechat-mini-program" style="width: 42px;height: 42px"></a>
+ <a href="https://es6.ruanyifeng.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/js-logo.svg" alt="JavaScript" style="width: 42px;height: 42px"></a>
+ <a href="https://www.typescriptlang.org/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/typescript.png" alt="TypeScript" style="width: 42px;height: 42px"></a>
+ <a href="https://www.runoob.com/html/html5-intro.html"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/h5logo.svg" alt="HTML5" style="width: 42px;height: 42px"></a>
+ <a href="https://www.runoob.com/css3/css3-tutorial.html"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/c3-logo.svg" alt="CSS3" style="width: 42px;height: 42px"></a>
+ <a href="https://www.sass.hk/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/sass.png" alt="Sass" style="width: 42px;height: 42px"></a>
+ <a href="https://lesscss.cn/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/less_logo.png" alt="Less" style="height: 38px;"></a>
+ <a href="https://www.runoob.com/markdown/md-tutorial.html"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/md-logo.svg" alt="Markdown" style="width: 42px;height: 42px"></a> 
+ <a href="https://nginx.org/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/nginx.png" alt="Nginx" style="width: 42px;height: 42px"></a>
+ <a href="https://www.jenkins.io/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/jenkins.png" alt="Jenkins" style="width: 42px;height: 42px"></a>
+ <a href="https://nodejs.org/en"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/nodejs.png" alt="NodeJS" style="width: 42px;height: 42px"></a>
+ <a href="https://www.webpackjs.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/webpack.png" alt="webpack" style="width: 42px;height: 42px"></a>
+ <a href="https://www.npmjs.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/npm.png" alt="npm" style="width: 42px;height: 42px"></a>
+ <a href="https://git-scm.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/git-logo.svg" alt="Git" style="width: 42px;height: 42px"></a>
+ <a href="https://www.mysql.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/mysql-original-wordmark.svg" alt="MySQL" style="width: 42px;height: 42px"></a>
  <br>
- <a href="https://www.adobe.com/products/photoshop.html"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/Photoshop.png" alt="PhotoShop" style="width: 42px;height: 42px"></a>
- <a href="https://www.capcut.cn/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/JianyingPro.png" alt="Jianying" style="width: 42px;height: 42px"></a>
- <a href="https://www.iviewui.com/view-ui-plus/guide/introduce"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/iview-logo.png" alt="iView" style="width: 42px;height: 42px"></a>
- <a href="https://element-plus.org/zh-CN/#/zh-CN"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/ElementUI.png" alt="ElementUI" style="width: 42px;height: 42px"></a>
- <a href="https://vitejs.dev/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/vite.png" alt="Vite" style="width: 42px;height: 42px"></a>
- <a href="https://github.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/githubb.png" alt="Github" style="width: 42px;height: 42px"></a>
- <a href="https://about.gitlab.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/gitlab.png" alt="Gitlab" style="width: 42px;height: 42px"></a>
- <a href="https://about.gitea.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/gitea.png" alt="Gitea" style="width: 42px;height: 42px"></a>
- <a href="https://gitee.com/"> <img src="https://raw.githubusercontent.com/MangoRu/PicGo/master/gitee.png" alt="Gitee" style="width: 42px;height: 42px"></a>
+ <a href="https://www.adobe.com/products/photoshop.html"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/Photoshop.png" alt="PhotoShop" style="width: 42px;height: 42px"></a>
+ <a href="https://www.capcut.cn/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/JianyingPro.png" alt="Jianying" style="width: 42px;height: 42px"></a>
+ <a href="https://www.iviewui.com/view-ui-plus/guide/introduce"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/iview-logo.png" alt="iView" style="width: 42px;height: 42px"></a>
+ <a href="https://element-plus.org/zh-CN/#/zh-CN"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/ElementUI.png" alt="ElementUI" style="width: 42px;height: 42px"></a>
+ <a href="https://vitejs.dev/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/vite.png" alt="Vite" style="width: 42px;height: 42px"></a>
+ <a href="https://github.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/githubb.png" alt="Github" style="width: 42px;height: 42px"></a>
+ <a href="https://about.gitlab.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/gitlab.png" alt="Gitlab" style="width: 42px;height: 42px"></a>
+ <a href="https://about.gitea.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/gitea.png" alt="Gitea" style="width: 42px;height: 42px"></a>
+ <a href="https://gitee.com/"> <img src="https://raw.gitmirror.com/MangoRu/PicGo/master/icon/gitee.png" alt="Gitee" style="width: 42px;height: 42px"></a>
  <br>
  &nbsp;&nbsp; ……
 </div>
